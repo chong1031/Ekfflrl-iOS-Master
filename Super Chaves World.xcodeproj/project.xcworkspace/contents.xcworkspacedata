@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "self:/Users/superstar/Documents/cocos2d_sam/TileMap/TileMap-master/Super Chaves World.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/AppDelegate.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/AppDelegate.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/Define.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/desert.png">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/desert.tmx">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/GameLayer.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/GameLayer.m">
+   </FileRef>
+   <Group
+      location = "group:../Super Chaves World/libs"
+      name = "libs">
+      <Group
+         location = "group:cocos2d"
+         name = "cocos2d">
+         <FileRef
+            location = "group:CCAction.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCAction.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionCamera.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionCamera.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionCatmullRom.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionCatmullRom.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionEase.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionEase.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionGrid.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionGrid.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionGrid3D.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionGrid3D.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionInstant.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionInstant.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionInterval.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionInterval.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionManager.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionManager.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionPageTurn3D.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionPageTurn3D.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionProgressTimer.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionProgressTimer.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionTiledGrid.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionTiledGrid.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionTween.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCActionTween.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCAnimation.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCAnimation.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCAnimationCache.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCAnimationCache.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCAtlasNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCAtlasNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCCamera.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCCamera.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccConfig.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCConfiguration.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCConfiguration.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccDeprecated.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccDeprecated.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCDirector.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCDirector.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCDrawingPrimitives.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCDrawingPrimitives.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCDrawNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCDrawNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCGLProgram.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCGLProgram.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccGLStateCache.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccGLStateCache.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCGrabber.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCGrabber.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCGrid.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCGrid.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCLabelAtlas.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCLabelAtlas.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCLabelBMFont.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCLabelBMFont.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCLabelTTF.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCLabelTTF.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCLayer.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCLayer.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccMacros.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCMenu.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCMenu.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCMenuItem.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCMenuItem.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCMotionStreak.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCMotionStreak.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCNode+Debug.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCNode+Debug.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCParallaxNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCParallaxNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleBatchNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleBatchNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleExamples.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleExamples.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleSystem.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleSystem.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleSystemQuad.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCParticleSystemQuad.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCPhysicsDebugNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCPhysicsDebugNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCPhysicsSprite.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCPhysicsSprite.mm">
+         </FileRef>
+         <FileRef
+            location = "group:CCProgressTimer.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCProgressTimer.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCProtocols.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCRenderTexture.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCRenderTexture.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCScene.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCScene.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCScheduler.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCScheduler.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_Position_uColor_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_Position_uColor_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionColor_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionColor_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionColorLengthTexture_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionColorLengthTexture_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTexture_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTexture_uColor_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTexture_uColor_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTexture_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTextureA8Color_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTextureA8Color_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTextureColor_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTextureColor_vert.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShader_PositionTextureColorAlphaTest_frag.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCShaderCache.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCShaderCache.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccShaders.h">
+         </FileRef>
+         <FileRef
+            location = "group:ccShaders.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCSprite.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCSprite.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCSpriteBatchNode.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCSpriteBatchNode.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCSpriteFrame.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCSpriteFrame.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCSpriteFrameCache.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCSpriteFrameCache.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTexture2D.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTexture2D.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTextureAtlas.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTextureAtlas.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTextureCache.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTextureCache.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTexturePVR.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTexturePVR.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTileMapAtlas.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTileMapAtlas.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXLayer.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXLayer.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXObjectGroup.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXObjectGroup.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXTiledMap.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXTiledMap.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXXMLParser.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTMXXMLParser.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTransition.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTransition.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTransitionPageTurn.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTransitionPageTurn.m">
+         </FileRef>
+         <FileRef
+            location = "group:CCTransitionProgress.h">
+         </FileRef>
+         <FileRef
+            location = "group:CCTransitionProgress.m">
+         </FileRef>
+         <FileRef
+            location = "group:ccTypes.h">
+         </FileRef>
+         <FileRef
+            location = "group:cocos2d.h">
+         </FileRef>
+         <FileRef
+            location = "group:cocos2d.m">
+         </FileRef>
+         <Group
+            location = "group:Platforms"
+            name = "Platforms">
+            <FileRef
+               location = "group:CCGL.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCNS.h">
+            </FileRef>
+            <Group
+               location = "group:iOS"
+               name = "iOS">
+               <FileRef
+                  location = "group:CCDirectorIOS.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCDirectorIOS.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCES2Renderer.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCES2Renderer.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCESRenderer.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCGLView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCGLView.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCTouchDelegateProtocol.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCTouchDispatcher.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCTouchDispatcher.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCTouchHandler.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCTouchHandler.m">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Mac"
+               name = "Mac">
+               <FileRef
+                  location = "group:CCDirectorMac.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCDirectorMac.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCEventDispatcher.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCEventDispatcher.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCGLView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCGLView.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CCWindow.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CCWindow.m">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Support"
+            name = "Support">
+            <FileRef
+               location = "group:base64.c">
+            </FileRef>
+            <FileRef
+               location = "group:base64.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCArray.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCArray.m">
+            </FileRef>
+            <FileRef
+               location = "group:ccCArray.h">
+            </FileRef>
+            <FileRef
+               location = "group:ccCArray.m">
+            </FileRef>
+            <FileRef
+               location = "group:CCFileUtils.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCFileUtils.m">
+            </FileRef>
+            <FileRef
+               location = "group:CCProfiling.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCProfiling.m">
+            </FileRef>
+            <FileRef
+               location = "group:ccUtils.c">
+            </FileRef>
+            <FileRef
+               location = "group:ccUtils.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCVertex.h">
+            </FileRef>
+            <FileRef
+               location = "group:CCVertex.m">
+            </FileRef>
+            <FileRef
+               location = "group:CGPointExtension.h">
+            </FileRef>
+            <FileRef
+               location = "group:CGPointExtension.m">
+            </FileRef>
+            <FileRef
+               location = "group:NSThread+performBlock.h">
+            </FileRef>
+            <FileRef
+               location = "group:NSThread+performBlock.m">
+            </FileRef>
+            <FileRef
+               location = "group:OpenGL_Internal.h">
+            </FileRef>
+            <FileRef
+               location = "group:TGAlib.h">
+            </FileRef>
+            <FileRef
+               location = "group:TGAlib.m">
+            </FileRef>
+            <FileRef
+               location = "group:TransformUtils.h">
+            </FileRef>
+            <FileRef
+               location = "group:TransformUtils.m">
+            </FileRef>
+            <FileRef
+               location = "group:uthash.h">
+            </FileRef>
+            <FileRef
+               location = "group:utlist.h">
+            </FileRef>
+            <FileRef
+               location = "group:ZipUtils.h">
+            </FileRef>
+            <FileRef
+               location = "group:ZipUtils.m">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:CocosDenshion"
+         name = "CocosDenshion">
+         <FileRef
+            location = "group:CDAudioManager.h">
+         </FileRef>
+         <FileRef
+            location = "group:CDAudioManager.m">
+         </FileRef>
+         <FileRef
+            location = "group:CDConfig.h">
+         </FileRef>
+         <FileRef
+            location = "group:CDOpenALSupport.h">
+         </FileRef>
+         <FileRef
+            location = "group:CDOpenALSupport.m">
+         </FileRef>
+         <FileRef
+            location = "group:CocosDenshion.h">
+         </FileRef>
+         <FileRef
+            location = "group:CocosDenshion.m">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleAudioEngine.h">
+         </FileRef>
+         <FileRef
+            location = "group:SimpleAudioEngine.m">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:kazmath"
+         name = "kazmath">
+         <Group
+            location = "group:include"
+            name = "include">
+            <Group
+               location = "group:kazmath"
+               name = "kazmath">
+               <FileRef
+                  location = "group:aabb.h">
+               </FileRef>
+               <Group
+                  location = "group:GL"
+                  name = "GL">
+                  <FileRef
+                     location = "group:mat4stack.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:matrix.h">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:kazmath.h">
+               </FileRef>
+               <FileRef
+                  location = "group:mat3.h">
+               </FileRef>
+               <FileRef
+                  location = "group:mat4.h">
+               </FileRef>
+               <FileRef
+                  location = "group:neon_matrix_impl.h">
+               </FileRef>
+               <FileRef
+                  location = "group:plane.h">
+               </FileRef>
+               <FileRef
+                  location = "group:quaternion.h">
+               </FileRef>
+               <FileRef
+                  location = "group:ray2.h">
+               </FileRef>
+               <FileRef
+                  location = "group:utility.h">
+               </FileRef>
+               <FileRef
+                  location = "group:vec2.h">
+               </FileRef>
+               <FileRef
+                  location = "group:vec3.h">
+               </FileRef>
+               <FileRef
+                  location = "group:vec4.h">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:src"
+            name = "src">
+            <FileRef
+               location = "group:aabb.c">
+            </FileRef>
+            <FileRef
+               location = "group:ChangeLog">
+            </FileRef>
+            <FileRef
+               location = "group:CMakeLists.txt">
+            </FileRef>
+            <Group
+               location = "group:GL"
+               name = "GL">
+               <FileRef
+                  location = "group:mat4stack.c">
+               </FileRef>
+               <FileRef
+                  location = "group:matrix.c">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:mat3.c">
+            </FileRef>
+            <FileRef
+               location = "group:mat4.c">
+            </FileRef>
+            <FileRef
+               location = "group:neon_matrix_impl.c">
+            </FileRef>
+            <FileRef
+               location = "group:plane.c">
+            </FileRef>
+            <FileRef
+               location = "group:quaternion.c">
+            </FileRef>
+            <FileRef
+               location = "group:ray2.c">
+            </FileRef>
+            <FileRef
+               location = "group:utility.c">
+            </FileRef>
+            <FileRef
+               location = "group:vec2.c">
+            </FileRef>
+            <FileRef
+               location = "group:vec3.c">
+            </FileRef>
+            <FileRef
+               location = "group:vec4.c">
+            </FileRef>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:LICENSE_cocos2d.txt">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE_CocosDenshion.txt">
+      </FileRef>
+      <FileRef
+         location = "group:LICENSE_Kazmath.txt">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:../Super Chaves World/main.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/MainMenu.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/MainMenu.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/PackPage.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/PackPage.m">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/Player.png">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/Prefix.pch">
+   </FileRef>
+   <Group
+      location = "group:../Super Chaves World/Resources"
+      name = "Resources">
+      <FileRef
+         location = "group:Default-568h@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:Default-667h@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:Default-736@2x.png">
+      </FileRef>
+      <FileRef
+         location = "group:Default-Landscape~ipad.png">
+      </FileRef>
+      <FileRef
+         location = "group:Default.png">
+      </FileRef>
+      <FileRef
+         location = "group:Default@2x.png">
+      </FileRef>
+      <Group
+         location = "group:font"
+         name = "font">
+         <FileRef
+            location = "group:0.png">
+         </FileRef>
+         <FileRef
+            location = "group:1.png">
+         </FileRef>
+         <FileRef
+            location = "group:2.png">
+         </FileRef>
+         <FileRef
+            location = "group:3.png">
+         </FileRef>
+         <FileRef
+            location = "group:4.png">
+         </FileRef>
+         <FileRef
+            location = "group:5.png">
+         </FileRef>
+         <FileRef
+            location = "group:6.png">
+         </FileRef>
+         <FileRef
+            location = "group:7.png">
+         </FileRef>
+         <FileRef
+            location = "group:8.png">
+         </FileRef>
+         <FileRef
+            location = "group:9.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:fps_images-hd.png">
+      </FileRef>
+      <FileRef
+         location = "group:fps_images-ipadhd.png">
+      </FileRef>
+      <FileRef
+         location = "group:fps_images.png">
+      </FileRef>
+      <Group
+         location = "group:Icon"
+         name = "Icon">
+         <FileRef
+            location = "group:apple-touch-icon-114x114-precomposed.png">
+         </FileRef>
+         <FileRef
+            location = "group:apple-touch-icon-144x144-precomposed.png">
+         </FileRef>
+         <FileRef
+            location = "group:apple-touch-icon-72x72-precomposed.png">
+         </FileRef>
+         <FileRef
+            location = "group:apple-touch-icon-precomposed.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-72.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-72@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small-20.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small-20@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small-30.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small-30@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small-50.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small-50@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon-Small@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon.png">
+         </FileRef>
+         <FileRef
+            location = "group:Icon@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:iTunesArtwork.png">
+         </FileRef>
+         <FileRef
+            location = "group:iTunesArtwork@2x.png">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+      <FileRef
+         location = "group:iTunesArtwork">
+      </FileRef>
+      <Group
+         location = "group:levels"
+         name = "levels">
+         <FileRef
+            location = "group:level0_1.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_10.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_11.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_12.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_13.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_14.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_15.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_16.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_17.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_18.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_19.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_2.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_20.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_3.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_4.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_5.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_6.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_7.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_8.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level0_9.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_1.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_10.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_11.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_12.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_13.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_14.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_15.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_16.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_17.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_18.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_19.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_2.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_20.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_3.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_4.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_5.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_6.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_7.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_8.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level1_9.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_1.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_10.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_11.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_12.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_13.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_14.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_15.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_16.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_17.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_18.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_19.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_2.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_20.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_3.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_4.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_5.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_6.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_7.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_8.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level2_9.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_1.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_10.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_11.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_12.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_13.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_14.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_15.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_16.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_17.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_18.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_19.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_2.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_20.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_3.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_4.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_5.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_6.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_7.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_8.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level3_9.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_1.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_10.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_11.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_12.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_13.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_14.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_15.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_16.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_17.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_18.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_19.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_2.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_20.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_3.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_4.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_5.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_6.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_7.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_8.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:level4_9.tmx">
+         </FileRef>
+         <FileRef
+            location = "group:tileset0.png">
+         </FileRef>
+         <FileRef
+            location = "group:tileset1.png">
+         </FileRef>
+         <FileRef
+            location = "group:tileset2.png">
+         </FileRef>
+         <FileRef
+            location = "group:tileset3.png">
+         </FileRef>
+         <FileRef
+            location = "group:tileset4.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:MainScene"
+         name = "MainScene">
+         <FileRef
+            location = "group:arrow1.png">
+         </FileRef>
+         <FileRef
+            location = "group:arrow2.png">
+         </FileRef>
+         <FileRef
+            location = "group:back1.png">
+         </FileRef>
+         <FileRef
+            location = "group:back2.png">
+         </FileRef>
+         <FileRef
+            location = "group:beginning1.png">
+         </FileRef>
+         <FileRef
+            location = "group:beginning2.png">
+         </FileRef>
+         <FileRef
+            location = "group:bird.png">
+         </FileRef>
+         <FileRef
+            location = "group:evolution1.png">
+         </FileRef>
+         <FileRef
+            location = "group:evolution2.png">
+         </FileRef>
+         <FileRef
+            location = "group:evolution_disable.png">
+         </FileRef>
+         <FileRef
+            location = "group:experience1.png">
+         </FileRef>
+         <FileRef
+            location = "group:experience2.png">
+         </FileRef>
+         <FileRef
+            location = "group:experience_disable.png">
+         </FileRef>
+         <FileRef
+            location = "group:expert1.png">
+         </FileRef>
+         <FileRef
+            location = "group:expert2.png">
+         </FileRef>
+         <FileRef
+            location = "group:expert_disable.png">
+         </FileRef>
+         <FileRef
+            location = "group:failed_logo.png">
+         </FileRef>
+         <FileRef
+            location = "group:game_bg0.png">
+         </FileRef>
+         <FileRef
+            location = "group:game_bg1.png">
+         </FileRef>
+         <FileRef
+            location = "group:game_bg2.png">
+         </FileRef>
+         <FileRef
+            location = "group:game_bg3.png">
+         </FileRef>
+         <FileRef
+            location = "group:game_bg4.png">
+         </FileRef>
+         <FileRef
+            location = "group:get_ready_logo.png">
+         </FileRef>
+         <FileRef
+            location = "group:leaderboard.png">
+         </FileRef>
+         <FileRef
+            location = "group:leaderboard_clicked.png">
+         </FileRef>
+         <FileRef
+            location = "group:level.png">
+         </FileRef>
+         <FileRef
+            location = "group:level_completed_logo.png">
+         </FileRef>
+         <FileRef
+            location = "group:level_pack.png">
+         </FileRef>
+         <FileRef
+            location = "group:level_select.png">
+         </FileRef>
+         <FileRef
+            location = "group:more.png">
+         </FileRef>
+         <FileRef
+            location = "group:more1.png">
+         </FileRef>
+         <FileRef
+            location = "group:more2.png">
+         </FileRef>
+         <FileRef
+            location = "group:music_off.png">
+         </FileRef>
+         <FileRef
+            location = "group:music_on.png">
+         </FileRef>
+         <FileRef
+            location = "group:play1.png">
+         </FileRef>
+         <FileRef
+            location = "group:play2.png">
+         </FileRef>
+         <FileRef
+            location = "group:professional1.png">
+         </FileRef>
+         <FileRef
+            location = "group:professional2.png">
+         </FileRef>
+         <FileRef
+            location = "group:professional_disable.png">
+         </FileRef>
+         <FileRef
+            location = "group:score.png">
+         </FileRef>
+         <FileRef
+            location = "group:sound_off.png">
+         </FileRef>
+         <FileRef
+            location = "group:sound_on.png">
+         </FileRef>
+         <FileRef
+            location = "group:start1.png">
+         </FileRef>
+         <FileRef
+            location = "group:start2.png">
+         </FileRef>
+         <FileRef
+            location = "group:title.png">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Player"
+         name = "Player">
+         <FileRef
+            location = "group:cherry.png">
+         </FileRef>
+         <FileRef
+            location = "group:fly.plist">
+         </FileRef>
+         <FileRef
+            location = "group:fly.png">
+         </FileRef>
+         <FileRef
+            location = "group:run.plist">
+         </FileRef>
+         <FileRef
+            location = "group:run.png">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:../Super Chaves World/SelectPage.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Super Chaves World/SelectPage.m">
+   </FileRef>
+</Workspace>
